@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Undertale_Injector/Undertale_Injector.vcxproj" Id="05b7a6e0-b3fc-4a3c-b59d-b5d54689cffe" />
+  <Project Path="Undertale_Internal/Undertale_Internal.vcxproj" Id="4a38695a-08cb-48e6-87ee-f418eccf0aa6" />
+</Solution>
